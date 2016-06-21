@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C57BF858-579B-94A1-BD8B-11DD3F1ADE46}") = "08_Unity_PlayingCardsUI", "Assembly-CSharp.csproj", "{4DD3C70D-6C29-769D-D04C-AC0BD12E8A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD3C70D-6C29-769D-D04C-AC0BD12E8A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD3C70D-6C29-769D-D04C-AC0BD12E8A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD3C70D-6C29-769D-D04C-AC0BD12E8A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD3C70D-6C29-769D-D04C-AC0BD12E8A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
